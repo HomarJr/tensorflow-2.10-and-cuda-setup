@@ -24,7 +24,7 @@ When installing CUDA and cuDNN it is important to not have other versions instal
 - NVIDIA Graphics Driver
 - NVIDIA HD Audio Driver
 
-NOTE: If you need to keep a specific version of CUDA (alongside PhysX, FrameView and/or Nsight) for any reason, you could try running the CUDA 11.2.0 installer and hope that it does not fail. If it fails, the version you want to keep may not be compatible with this version. If that is the case, you should check the official [tested configurations](https://www.tensorflow.org/install/source?hl=es-419#gpu), adjust the versions of Python, TensorFlow and cuDNN to match your current installation of CUDA and continue with the guide.
+NOTE: If you need to keep a specific version of CUDA (alongside PhysX, FrameView and/or Nsight) for any reason, you could try running the CUDA 11.2.0 installer and hope that it does not fail. If it fails, the version you want to keep may not be compatible with this version. If that is the case, you should check the official [tested configurations](https://www.tensorflow.org/install/source#gpu), adjust the versions of Python, TensorFlow and cuDNN to match your current installation of CUDA and continue with the guide.
 
 As for Python, there are no problems if you have other versions installed. Just make sure to stick with one and only one of the compatible versions when installing packages and running your code.
 
